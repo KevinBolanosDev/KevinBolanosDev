@@ -75,7 +75,7 @@
 
 ---
 <h3><img src="https://cdn3.iconfinder.com/data/icons/design-and-development-2-6/136/51-256.png" width="20"> All of my projects are available at</h3>
-<a href="https://kevin-bolanos-dev-cv.netlify.app">My Portfolio</a>
+<a href="https://kevinbolanosdev.github.io/portafolio-PIO/">My Portfolio</a>
 
 ---
 <h3><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="20"> How to reach me</h3>
