@@ -2,7 +2,9 @@
 
 <div align="center">
 <h1>Full Stack Developer</h1>
-<h3 align="center">I am constantly growing, specialized in the creation and development of Full Stack sites and web applications, using my skills with HTML, CSS, JavaScript and using frameworks such as React, for the Backend using MongoDB, Express and Node, to address changing needs. . of the technology market.</h3>
+<h3 align="center">I am a Full Stack developer passionate about creating modern and innovative digital solutions. I have extensive experience in frontend development using React, Next.js, Tailwind CSS, Shadcn, JavaScript, and TypeScript, complemented by a solid foundation in backend development with Node.js, route design, secure authentication, and SQL and NoSQL database management, including PostgreSQL and MongoDB.
+
+My proactive approach, discipline, and ability to solve challenges drive me to seek efficient solutions, maintain continuous learning, and constantly strengthen my technical and soft skills as a developer.</h3>
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dveGRkZzA3ZWtycWkyd2d0dHJqZmV1c2c2a2ZtdTNrZHhpcm9peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 
