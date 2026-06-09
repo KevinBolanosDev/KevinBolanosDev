@@ -2,7 +2,11 @@
 
 <div align="center">
 <h1>Full Stack Developer</h1>
-<h3 align="center">I am a Full Stack developer passionate about creating modern and innovative digital solutions. I have extensive experience in frontend development using React, Next.js, Tailwind CSS, Shadcn, JavaScript, and TypeScript, complemented by a solid foundation in backend development with Node.js, route design, secure authentication, and SQL and NoSQL database management, including PostgreSQL and MongoDB.
+<h3 align="center">Full Stack Developer from Colombia with experience in CMS, SaaS, and CRM platforms, utilizing core technologies such as HTML, CSS, JavaScript, and TypeScript, and modern libraries like React with Next.js, Shadcn, Tailwind CSS, state management with Zustand and TanStack Query, applying scalable and modular architectures.
+
+Proficient in backend development with Node.js, Prisma, relational and non-relational databases (PostgreSQL, MongoDB), and Docker for containers. Experience in CI/CD and production project implementation, including environment and variable configuration in Railway and Vercel, for both frontend and backend.
+
+Currently training in mobile development for Android and iOS with React Native, and exploring the use of AI with Agents, with foundational knowledge of agent orchestration from various LLMs.
 
 My proactive approach, discipline, and ability to solve challenges drive me to seek efficient solutions, maintain continuous learning, and constantly strengthen my technical and soft skills as a developer.</h3>
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dveGRkZzA3ZWtycWkyd2d0dHJqZmV1c2c2a2ZtdTNrZHhpcm9peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
@@ -11,6 +15,7 @@ My proactive approach, discipline, and ability to solve challenges drive me to s
 ---
 <h3 align="center">Projects carried out in Bootcamp</h3> 
 
+<div style="display: flex; gap: 4">
 <div align="center">
   Make my first resume using HTML and CSS.
   <div>
@@ -67,6 +72,7 @@ My proactive approach, discipline, and ability to solve challenges drive me to s
   <div>
   <img src="https://github.com/KevinBolanosDev/personal-cv/blob/main/img/blog-preview-card.png?raw=true" width="250" heigth="250">
   </div>
+</div>
 </div>
 
 ---
