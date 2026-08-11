@@ -18,7 +18,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
 
 <div style="display: flex; gap: 4">
 <div align="center">
-  Frontend Developer | Lead Management Platform
+  Frontend Developer | AriaInsurtech - Lead Management
   <div>
     <a href="https://ariainsurtech.com">Production</a>
   </div>
@@ -28,7 +28,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
 </div>
 
 <div align="center">
-  Create a Web App on a task list, using React and ChakraUI.
+  Frontend Developer | Aria Desk - Saas Platform Agents
   <div>
   <a href="https://aria-desk.com/home">Production</a>
   </div>
