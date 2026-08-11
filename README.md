@@ -24,7 +24,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
     <a href="https://ariainsurtech.com">Production</a>
   </div>
   <div>
-  <img src="https://drive.google.com/file/d/1NNOouORMH3Uj7fNSZwrssEu0HeFeKRCU/view?usp=sharing" width="400" heigth="400">
+  <img src="https://drive.google.com/file/d/1NNOouORMH3Uj7fNSZwrssEu0HeFeKRCU/view?usp=drive_link" width="400" heigth="400">
   </div>
 </div>
 
