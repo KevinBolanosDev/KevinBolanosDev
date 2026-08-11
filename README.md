@@ -30,8 +30,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
 <div align="center">
   Create a Web App on a task list, using React and ChakraUI.
   <div>
-  <a href="https://github.com/KevinBolanosDev/my_react_tasks_list/tree/project-6">Code Github</a> /
-  <a href="https://app-to-do-list-chakra-ui.netlify.app">Preview Project</a>
+  <a href="https://aria-desk.com/home">Production</a>
   </div>
   <div>
   <img src="https://github.com/KevinBolanosDev/personal-cv/blob/main/img/react-task-list.png?raw=true" width="250" heigth="250">
