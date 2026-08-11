@@ -18,7 +18,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
 
 <div style="display: flex; gap: 4">
 <div align="center">
-  Frontend Developer | AriaInsurtech - Lead Management
+  Frontend Developer | AriaInsurtech - Lead Management Platform
   <div>
     <a href="https://ariainsurtech.com">Production</a>
   </div>
@@ -33,7 +33,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
   <a href="https://aria-desk.com/home">Production</a>
   </div>
   <div>
-  <img src="https://github.com/KevinBolanosDev/personal-cv/blob/main/img/react-task-list.png?raw=true" width="250" heigth="250">
+  <img src="https://github.com/KevinBolanosDev/KevinBolanosDev/blob/main/Aria-desk.png">
   </div>
 </div>
 
