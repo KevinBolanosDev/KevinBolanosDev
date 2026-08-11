@@ -24,7 +24,7 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
     <a href="https://ariainsurtech.com">Production</a>
   </div>
   <div>
-  <img src="[https://github.com/KevinBolanosDev/personal-cv/blob/main/img/hero-chakra-ui.png?raw=true](https://drive.google.com/file/d/1NNOouORMH3Uj7fNSZwrssEu0HeFeKRCU/view?usp=sharing)" width="400" heigth="400">
+  <img src="https://github.com/KevinBolanosDev/personal-cv/blob/main/img/hero-chakra-ui.png?raw=true(https://drive.google.com/file/d/1NNOouORMH3Uj7fNSZwrssEu0HeFeKRCU/view?usp=sharing)" width="400" heigth="400">
   </div>
 </div>
 
