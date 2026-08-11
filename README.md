@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" heigth="40"> I'm Kevin Andres Bolaños Narvaez</h1>
 <h2 align="center">Full Stack Developer</h2>
-<a href="https://kevin-b-portfolio-dev.netlify.app/">Portfolio</a>
 
 <div>
 <h3 align="center">Frontend developer focused on creating modern, scalable, and user-centric web applications.
@@ -56,10 +55,6 @@ I am a proactive, disciplined, and highly skilled problem solver, always committ
 </div>
 
 ---
-
-<h3><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="20"> How to reach me</h3>
-
----
 <h3>Connect with me:</h3>
 **im.kevinbolanos.dev@gmail.com**
-
+<a href="https://www.imkevinbolanosdev.com/home">Portfolio</a>
